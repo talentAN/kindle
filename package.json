@@ -1,0 +1,11 @@
+{
+  "name": "kindle",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:talentAN/kindle.git",
+  "scripts": {
+    "stage": "git add . && git commit -am 'update' &&  git push origin HEAD"
+  },
+  "author": "anzhen <adam_an02@163.com>",
+  "license": "MIT"
+}

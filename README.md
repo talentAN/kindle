@@ -114,6 +114,8 @@
 
 ##### 《第五项修炼》by 彼得·圣吉
 
+##### 《Personal Development for Smart People》 by Steve Pavlina
+
 ### “非主流”
 
 ##### 《参谋助手论——为首长服务的艺术》 by 王怀志、郭政
