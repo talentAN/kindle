@@ -108,6 +108,7 @@
 
 ### “修身”
 
+##### 《道德经（帛书版）》
 ##### 《第五项修炼》by 彼得·圣吉
 
 ##### 《Personal Development for Smart People》 by Steve Pavlina
